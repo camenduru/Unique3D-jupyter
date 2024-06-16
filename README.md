@@ -8,7 +8,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Unique3D-jupyter/blob/main/Unique3D_jupyter.ipynb) | Unique3D_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/Unique3D-jupyter/blob/main/Unique3D_jupyter.ipynb) | Unique3D_jupyter (Pro Colab 😭 >15GB)
 
 ### 🧬 Code
 https://github.com/AiuniAI/Unique3D
