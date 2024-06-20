@@ -21,7 +21,7 @@ https://arxiv.org/abs/2405.20343
 https://wukailu.github.io/Unique3D/
 
 ### 🖼 Output
-
+![Screenshot 2024-06-20 050113](https://github.com/camenduru/Unique3D-jupyter/assets/54370274/845c3d60-2fbd-4c2b-8ebb-0d3d4f00159f)
 
 ### 🏢 Sponsor
 https://runpod.io
